@@ -50,20 +50,16 @@ params:
     profileMode:
           enabled: true
           title: Richard Zhuang
-          subtitle: "I am a first-year graduate student at the University of Washington."
-          imageUrl: "picture.jpeg"
+          subtitle: "I am a first-year graduate student studying Tropical Meteorology at the University of Washington. Under the advisory of Professor Shuyi Chen, I am investigating the multiscale variability of the Atlantic ITCZ."
+          imageUrl: "IMG_20200804_120034.jpg"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Prof. Name
+          imageTitle: Richard Zhuang
           buttons:
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
             - name: Data
               url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
             - name: Tags
               url: tags/
             - name: Archive
@@ -71,22 +67,12 @@ params:
     socialIcons:
         - name: CV
           url: cv.pdf
-        - name: Email
-          url: mailto:pascal.michaillat@gmail.com
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://scholar.google.com/citations?user=pefqNyIAAAAJ
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: Twitter
-          url: https://twitter.com/pmichaillat
+          url: https://github.com/Z-Richard
 
     assets:
         disableHLJS: true
@@ -95,7 +81,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Prof. Name"
+      text: "Richard Zhuang"
       icon: favicon.ico
       iconHeight: 18
 
