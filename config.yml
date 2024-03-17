@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Prof. Name
+baseURL: "https://z-richard.github.io" 
+title: Richard Zhuang
 paginate: 20
 theme: PaperMod
 
@@ -25,9 +25,8 @@ menu:
           weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
-    author: Name
+    description: "I am a first-year graduate student at the University of Washington."
+    author: Richard Zhuang
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -50,8 +49,8 @@ consequat."
     math: true
     profileMode:
           enabled: true
-          title: Prof. Namely Name
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          title: Richard Zhuang
+          subtitle: "I am a first-year graduate student at the University of Washington."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
